@@ -1,0 +1,14 @@
+Assignment –2
+ Introducing Relational Databases.
+1) Which field of the Customers table is the primary key? 
+ans:-primary key of the customers table is 'Cnum'
+
+2) What is the 4th column of the Customers table? 
+ans:- the fourth column of the customer's table is 'Rating'.
+
+3) What is another word for row?  For column?
+ans:- for row :- tuple, entity, opportunity.
+      for column:- attribute, key, method
+
+4) Why isn’t it possible to see the first five rows of a table?
+ans:- because in memory, the data stored in fragmented way so one can not identify which row inserted first. it fetches row in a random manner.
